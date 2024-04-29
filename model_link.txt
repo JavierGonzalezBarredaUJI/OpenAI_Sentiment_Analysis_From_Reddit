@@ -1,0 +1,4 @@
+Links to sentiment model an tokenizer
+
+reddit model: https://drive.google.com/file/d/1iH1CWnmM0ujf2V86gaeCnM31WCNS7Nmn/view?usp=sharing
+reddit tokenizer: https://drive.google.com/file/d/1dgUwjPzP6jWJHo-FV848t-ZHoT4Wa_VF/view?usp=sharing
